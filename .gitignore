@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+app1.js
+
+app2.js
 
 # C extensions
 *.so
